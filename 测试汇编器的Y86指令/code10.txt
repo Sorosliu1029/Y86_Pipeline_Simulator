@@ -1,0 +1,6 @@
+irmovl $1,%eax
+xorl %esp,%esp        
+pushl %eax           
+addl  %eax,%eax       
+irmovl $2, %eax       
+irmovl $3, %eax       

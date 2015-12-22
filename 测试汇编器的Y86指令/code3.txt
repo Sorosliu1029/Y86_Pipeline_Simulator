@@ -1,0 +1,5 @@
+  irmovl $10,%edx
+  irmovl  $3,%eax
+  nop
+  addl %edx,%eax
+  halt

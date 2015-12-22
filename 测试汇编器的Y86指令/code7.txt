@@ -1,0 +1,6 @@
+  irmovl 256,%esp 
+  call 0x20        
+  irmovl $10,%edx    
+  halt               
+  ret               
+  rrmovl %edx,%ebx  

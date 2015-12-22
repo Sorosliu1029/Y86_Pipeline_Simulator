@@ -1,0 +1,13 @@
+F:\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\bin\Debug\Y86_Pipeline_Simulator.exe.config
+F:\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\bin\Debug\Y86_Pipeline_Simulator.exe
+F:\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\bin\Debug\Y86_Pipeline_Simulator.pdb
+F:\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\obj\Debug\Y86_Pipeline_Simulator.csprojResolveAssemblyReference.cache
+F:\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\obj\Debug\Y86_Pipeline_Simulator.Properties.Resources.resources
+F:\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\obj\Debug\Y86_Pipeline_Simulator.csproj.GenerateResource.Cache
+F:\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\obj\Debug\Y86_Pipeline_Simulator.exe
+F:\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\obj\Debug\Y86_Pipeline_Simulator.pdb
+F:\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\obj\Debug\Y86_Pipeline_Simulator.FrmMain.resources
+F:\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\obj\Debug\Y86_Pipeline_Simulator.FrmAssembler.resources
+F:\PJ\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\bin\Debug\Y86_Pipeline_Simulator.exe.config
+F:\PJ\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\obj\Debug\Y86_Pipeline_Simulator.exe
+F:\PJ\CSAPPPJ\Y86_Pipeline_Simulator\Y86_Pipeline_Simulator\obj\Debug\Y86_Pipeline_Simulator.pdb

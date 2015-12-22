@@ -1,0 +1,7 @@
+xorl %eax,%eax     
+jne  0xa0       
+irmovl $1, %eax    
+halt               
+irmovl $2, %edx    
+irmovl $3, %ebx    
+halt              
